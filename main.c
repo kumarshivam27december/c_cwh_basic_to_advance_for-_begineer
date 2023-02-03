@@ -48,3 +48,8 @@ Names cannot contain whitespaces or special characters like !, #, %, etc.
 Reserved words (such as int) cannot be used as names
 
 */
+
+
+
+
+// always note that memory is always in form of "%p"
